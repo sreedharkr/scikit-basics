@@ -1,0 +1,2 @@
+ [x.lower() for x in ["A","B","C"]]
+['a', 'b', 'c']
