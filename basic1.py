@@ -22,6 +22,7 @@ def test3():
                 break
             print(line)
         print("file", "is", "completely printed", sep = "  " )
+        print("testing")
 
 class Person:
     list1 = ['dtree','logistic','randomF']
