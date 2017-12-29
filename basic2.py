@@ -2,7 +2,7 @@
 def test1():
     cities = ['denver','columbus','newyork']
     for a in cities:
-        print(a, " ", type(a))
+        print(a, " ", type(a))  
 
 def test2():
     with open('mytest.txt') as f:
